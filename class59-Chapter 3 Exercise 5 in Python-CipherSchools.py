@@ -1,0 +1,1 @@
+# ask the user for an input string and print the count of each character.

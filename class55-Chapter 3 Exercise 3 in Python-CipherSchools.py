@@ -1,0 +1,1 @@
+# ask the user an input (natural numbeer) and print the sum to that natural number.

@@ -1,0 +1,1 @@
+# ask the user for input of a number containing more than one digits.Print the sum of its digits
